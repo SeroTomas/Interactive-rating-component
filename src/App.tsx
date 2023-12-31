@@ -1,11 +1,10 @@
-import './App.css'
 
 function App() {
 
   return (
-    <>
-      
-    </>
+    <main className="bg-n-veryDarkBlue h-screen grid place-items-center">
+
+    </main>
   )
 }
 
