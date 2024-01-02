@@ -1,2 +1,2 @@
 export { default as HowDidWeDo } from './HowDidWeDo';
-export * from './index';
+export { default as ThankYou } from './ThankYou';

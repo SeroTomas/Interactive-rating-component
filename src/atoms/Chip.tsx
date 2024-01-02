@@ -4,7 +4,9 @@ interface Props {
 
 const Chip = ({ content }: Props) => {
     return (
-        <p className="text-p-orange text-xs bg-n-mediumGrey">{content}</p>
+        <p className="text-p-orange text-sm bg-n-veryDarkBlue py-1 px-3 rounded-2xl ">
+            {content}
+        </p>
     )
 }
 export default Chip

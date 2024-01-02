@@ -1,6 +1,6 @@
 interface Props {
     image: string
-    params:string
+    params?:string
 }
 
 const Image = ({ image, params }: Props) => {
