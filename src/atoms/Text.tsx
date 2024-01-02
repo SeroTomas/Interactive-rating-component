@@ -4,7 +4,7 @@ interface Props {
 
 const Text = ({ text }: Props) => {
     return (
-        <p className="font-overpass text-n-lightGrey text-xs">
+        <p className=" text-n-lightGrey text-[15px]">
             {text}
         </p>
     )
